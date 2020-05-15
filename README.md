@@ -1,7 +1,7 @@
 # twitchat
 
 --English--
-Phyton script that gets the chat thread on a Twitch live stream
+Python script that gets the chat thread on a Twitch live stream
 It outputs a log file containing all the chat messages it can captures for the time you run the script.
 
 
@@ -13,7 +13,7 @@ It outputs a log file containing all the chat messages it can captures for the t
   - Stop the script once you think you have enough messages and go to http://api.digitaleriamx.com/twitch/ to upload it.
   
 --Español--
-Script de Phyton que obtiene el chat de una transmisión en vivo de Twitch.
+Script de Python que obtiene el chat de una transmisión en vivo de Twitch.
 Genera un archivo .log que contiene todos los mensajes del chat que haya podido capturar mientras estuvo ejecutandose.
 
 # Instrucciones:
